@@ -1,0 +1,110 @@
+
+
+
+
+
+body{
+
+    font-family: "Poppins", sans-serif;
+    margin: 0px;
+
+
+}.link-button{
+
+
+    text-decoration: none;
+    background-image: linear-gradient( orange,tomato);
+
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    
+    
+}
+.love{
+display: flex;
+margin-bottom: ;
+
+}
+.half-width{
+    width: 100%;
+    text-align: center;
+    padding-left:5% ;
+    padding-right:5% ;
+    font-size: % ;
+}
+.half-width img{
+    width: 500px;
+    padding-left: ;
+    padding-right: ;
+    padding-top: 10px;
+    border-radius:5px ;
+    height:500px ;
+
+
+
+
+}
+
+.h{
+    color: chartreuse;
+
+    font-size:200%;
+
+}
+h1{
+    font-size: 350%;
+}
+.e{
+    font-size: 150%;
+}
+
+.k{
+    display: flex;
+    
+}
+.kk{
+    width: 100%;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+
+}
+.kk img{
+    width: 400px;
+    height: 400px;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 15px;
+}
+.ll{
+    background-image: url(images/shapes/7.png);
+    
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
+}
+
+    
+ .n{
+    margin-bottom: 20%;
+    margin-top: 10%;
+ }
+
+ .md{
+    text-align: center;
+    font-size:170%;
+    margin-top: ;
+    margin-left: ;
+    margin-right: ;
+    margin-bottom: ;
+    padding-right: 15%;
+ 
+    padding-left: 15%;
+ }
+ .y{
+    display: flex;
+ }
